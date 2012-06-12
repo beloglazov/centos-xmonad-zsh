@@ -10,7 +10,7 @@ xrdb -merge ~/.Xresources
 xxkb &
 emacs --daemon
 urxvtd -q -o -f
-chromium &
+google-chrome &
 xset b off &
 xset r rate 250 45 &
 exec ck-launch-session dbus-launch /home/anton/.cabal/bin/xmonad
