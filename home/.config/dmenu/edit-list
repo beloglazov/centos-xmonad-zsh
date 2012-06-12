@@ -1,0 +1,10 @@
+~/.emacs.d/init.el
+~/.emacs.d/init-python.el
+~/.zshrc
+~/.xinitrc
+~/.config/dmenu/edit-list
+~/.zshenv
+~/.xmonad/xmonad.hs
+~/.Xresources
+/etc/rc.conf
+
